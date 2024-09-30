@@ -18,6 +18,7 @@ Entusiasta de tecnologia, cursando bacharelado em Tecnologia da Informação pel
 
 **Sistemas Operacionais:**
 - Linux (Distribuições: Ubuntu, Mint e Kubuntu)
+
 **Banco de dados:**
 - MySQL
 - PostgreSQL
